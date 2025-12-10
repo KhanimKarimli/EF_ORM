@@ -47,5 +47,24 @@ namespace EF_ORM.Models
 				context.SaveChanges();
 			}
 		}
+
+		public void Update(int id)
+		{
+			using (AppDataContext context = new AppDataContext())
+			{
+				var teachers = context.Teachers.ToList();
+				var teacher = teachers.FirstOrDefault(t => t.Id == id);
+	
+				if (teacher != null)
+				{
+					Console.WriteLine("Yeni qrup adi daxil edin");
+					string newname = Console.ReadLine();
+					teacher.Name=newname;
+					context.SaveChanges();
+				}
+				else
+					Console.WriteLine("Tapilmadi");
+			}
+		}
 	}
 }

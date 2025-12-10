@@ -46,5 +46,23 @@ namespace EF_ORM.Models
 				context.SaveChanges();
 			}
 		}
+
+		public void Update(int id)
+		{
+			using (AppDataContext context = new AppDataContext())
+			{
+				var groups = context.Groups.ToList();
+				var group = groups.FirstOrDefault(t => t.Id == id);
+				if (group != null)
+				{
+					Console.WriteLine("Yeni qrup adi daxil edin");
+					string newname=Console.ReadLine();
+					group.Name=newname;
+					context.SaveChanges();
+				}
+				else
+                    Console.WriteLine("Tapilmadi");
+			}
+		}
 	}
 }
