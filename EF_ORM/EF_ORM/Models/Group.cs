@@ -44,6 +44,7 @@ namespace EF_ORM.Models
 
 				context.Groups.Remove(group);
 				context.SaveChanges();
+				Console.WriteLine("Deleted");
 			}
 		}
 
@@ -59,6 +60,7 @@ namespace EF_ORM.Models
 					string newname=Console.ReadLine();
 					group.Name=newname;
 					context.SaveChanges();
+					Console.WriteLine("Updated");
 				}
 				else
                     Console.WriteLine("Tapilmadi");

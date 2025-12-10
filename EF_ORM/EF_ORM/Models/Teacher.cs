@@ -45,6 +45,7 @@ namespace EF_ORM.Models
 
 				context.Teachers.Remove(teacher);
 				context.SaveChanges();
+				Console.WriteLine("Deleted");
 			}
 		}
 
@@ -57,10 +58,11 @@ namespace EF_ORM.Models
 	
 				if (teacher != null)
 				{
-					Console.WriteLine("Yeni qrup adi daxil edin");
+					Console.WriteLine("Yeni muellim adi daxil edin");
 					string newname = Console.ReadLine();
 					teacher.Name=newname;
 					context.SaveChanges();
+                    Console.WriteLine("Updated");
 				}
 				else
 					Console.WriteLine("Tapilmadi");

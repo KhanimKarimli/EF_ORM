@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF_ORM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d71120e0880980523c0f0ef721ca88312a4aa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF_ORM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF_ORM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

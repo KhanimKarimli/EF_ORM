@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\dal\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\dal\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|c:\\users\\user\\desktop\\ef_orm\\ef_orm\\ef_orm\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850AB99A-3348-64F9-8204-1276F78E6FD9}|EF_ORM\\EF_ORM.csproj|solutionrelative:ef_orm\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,53 +44,53 @@
               "RelativeDocumentMoniker": "EF_ORM\\Models\\Teacher.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Models\\Teacher.cs",
               "RelativeToolTip": "EF_ORM\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T17:06:50.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Program.cs",
               "RelativeDocumentMoniker": "EF_ORM\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Program.cs",
               "RelativeToolTip": "EF_ORM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T17:05:21.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Models\\Student.cs",
               "RelativeDocumentMoniker": "EF_ORM\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Models\\Student.cs",
               "RelativeToolTip": "EF_ORM\\Models\\Student.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T17:06:28.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Models\\Group.cs",
               "RelativeDocumentMoniker": "EF_ORM\\Models\\Group.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Models\\Group.cs",
               "RelativeToolTip": "EF_ORM\\Models\\Group.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T17:06:38.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Constant.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\Constants\\Constant.cs",
               "RelativeDocumentMoniker": "EF_ORM\\Constants\\Constant.cs",
@@ -98,11 +98,12 @@
               "RelativeToolTip": "EF_ORM\\Constants\\Constant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T17:11:09.168Z"
+              "WhenOpened": "2025-12-09T17:11:09.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppDataContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\EF_ORM\\EF_ORM\\EF_ORM\\DAL\\AppDataContext.cs",
               "RelativeDocumentMoniker": "EF_ORM\\DAL\\AppDataContext.cs",
@@ -110,7 +111,8 @@
               "RelativeToolTip": "EF_ORM\\DAL\\AppDataContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T17:14:12.544Z"
+              "WhenOpened": "2025-12-09T17:14:12.544Z",
+              "EditorCaption": ""
             }
           ]
         }
